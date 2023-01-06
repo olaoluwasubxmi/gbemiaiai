@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+.image {
+  position: absolute;
+  z-index: 0;
+}
 
 .App-header {
   background-color: #000000;
@@ -25,14 +34,16 @@
 }
 
 .App-link {
-  color: #61dafb;
+  
+  color: #e3e3e3;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+
+.gradient-text {
+  font-weight: 700;
+  background: linear-gradient(to right, rgb(39,148,247), rgb(39,148,247), rgb(231,253,255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
