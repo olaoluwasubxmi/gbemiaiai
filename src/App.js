@@ -17,18 +17,11 @@ function App() {
   <p className="gradient-text">Efficiency</p>
   <p className="gradient-text">Machine</p>
   <p className="gradient-text">Intelligence</p>
+
 </div>
       </header>
-      <footer style={{ backgroundColor: 'black' }}>
-  <a
-    className="App-link"
-    target="_blank"
-    rel="noopener noreferrer"
-    style={{ fontSize: '17px', color: 'white' }}
-  >
-     By Olaoluwasubomi
-  </a>
-</footer>
+      <p className="text-at-bottom">by Olaoluwasubomi</p>
+
     </div>
 
     

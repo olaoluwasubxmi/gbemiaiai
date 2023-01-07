@@ -3,6 +3,7 @@
 }
 
 .App-logo {
+  align-items: center;
   height: 40vmin;
   pointer-events: none;
 }
@@ -23,6 +24,7 @@
 }
 
 .App-header {
+  align-items: center;
   background-color: #000000;
   min-height: 100vh;
   display: flex;
@@ -38,10 +40,18 @@
   color: #e3e3e3;
 }
 
+.text-at-bottom {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  text-align: left;
+  size: 12px;
+}
 
 
 
 .gradient-text {
+  align-items: center;
   font-weight: 700;
   background: linear-gradient(to right, rgb(39,148,247), rgb(39,148,247), rgb(231,253,255));
   -webkit-background-clip: text;
