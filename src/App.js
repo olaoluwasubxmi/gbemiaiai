@@ -10,13 +10,13 @@ function App() {
 
         </div>
         <div style={{ marginTop: '-80px' }}>
-        <p className="gradient-text">Gbemi-ai Coming Soon</p>
+        <p className="gradient-text"></p>
 
-  <p className="gradient-text">Global</p>
-  <p className="gradient-text">Brain</p>
-  <p className="gradient-text">Efficiency</p>
-  <p className="gradient-text">Machine</p>
-  <p className="gradient-text">Intelligence</p>
+  <p className="gradient-text"></p>
+  <p className="gradient-text"></p>
+  <p className="gradient-text">Gbemi-ai Coming Soon</p>
+  <p className="gradient-text"></p>
+  <p className="gradient-text"></p>
 
 </div>
       </header>
