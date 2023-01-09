@@ -12,11 +12,6 @@ function App() {
         <div style={{ marginTop: '-80px' }}>
         <p className="gradient-text"></p>
 
-  <p className="gradient-text"></p>
-  <p className="gradient-text"></p>
-  <p className="gradient-text">Gbemi-ai Coming Soon</p>
-  <p className="gradient-text"></p>
-  <p className="gradient-text"></p>
 
 </div>
 
