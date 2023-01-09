@@ -19,6 +19,15 @@ function App() {
   <p className="gradient-text"></p>
 
 </div>
+
+<div>
+<p className="gradient-text"></p>
+  <p className="gradient-text"></p>
+  <p className="gradient-text">Gbemi-ai Coming Soon</p>
+  <p className="gradient-text"></p>
+  <p className="gradient-text"></p>
+
+</div>
       </header>
       <p className="text-at-bottom">by Olaoluwasubomi</p>
 
