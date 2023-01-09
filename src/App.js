@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={{ marginTop: '-100px' }}>
+        <div style={{ marginTop: '-200px' }}>
         <img src={loading} className="App-logo" alt="logo" />
 
         </div>
