@@ -18,7 +18,7 @@ function App() {
 <div>
 <p className="gradient-text"></p>
   <p className="gradient-text"></p>
-  <p className="gradient-text">A.I Assistant</p>
+  <p className="gradient-text"></p>
   <p className="gradient-text"></p>
   <p className="gradient-text"></p>
 
